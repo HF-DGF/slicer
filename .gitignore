@@ -1,0 +1,11 @@
+BUILD/
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+bin/
+*.bc
+demo/*.dot
+demo/*.ll
+demo/*.bc
+demo/*.txt
